@@ -1,3 +1,7 @@
 :root{
     --cor-de-fundo:black;
 }
+
+div{
+    display: flex;
+}
