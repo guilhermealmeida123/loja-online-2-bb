@@ -8,3 +8,7 @@ div{
     display: flex;
     align-items: right;
 }
+
+h1{
+    color: blue;
+}
