@@ -1,7 +1,9 @@
 :root{
     --cor-de-fundo:black;
 }
-
+body{
+    background-color: aqua;
+}
 div{
     display: flex;
     align-items: right;
