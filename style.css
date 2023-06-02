@@ -1,19 +1,2 @@
-:root{
-    --cor-de-fundo:black;
-}
-body{
-    background-color: aqua;
-}
-div{
-    display: flex;
-    align-items: right;
-}
 
-h1{
-    color:blue;
-}
-li{
-font-size: 50px;
-color:blueviolet
-}
 
