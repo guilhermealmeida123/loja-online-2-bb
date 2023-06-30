@@ -6,3 +6,6 @@ body{
     background-color: var(--azul);
 }
 @import url("styles/header.css");
+    li{
+        font-style: 50px;
+    }
