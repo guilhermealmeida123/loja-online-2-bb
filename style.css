@@ -7,5 +7,5 @@ body{
 }
 @import url("styles/header.css");
     li{
-        font-style: 150px;
+        font-size: 150px;
     }
